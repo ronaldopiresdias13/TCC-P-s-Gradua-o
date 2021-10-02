@@ -1,16 +1,15 @@
-# Microfrontend Github Search
+# TCC Micro frontend Github Search
 
-1. Search Repository (Build with React)
-2. Search Users (Build with Angular)
-3. Sidebar for navigation (Build with Vue)
+1. Repositório de pesquisa (construir com React)
+2. Pesquisar usuários (construir com Angular)
+3. Barra lateral para navegação (Construir com Vue)
 
-## How to run this project
+## Como executar este projeto
 
-1. Clone this project
-2. Jump into each app folder and do:
-   - `npm install`
-3. Then start the app-search-github with:
-   - `npm install`
-   - `npm run start`
-4. Open up http://localhost:9000 in a web browser.
-# TCC-P-s-Gradua-o
+1. Clone este projeto
+2. Vá para cada pasta do aplicativo e faça:
+    - `npm install`
+3. Em seguida, inicie o app-search-github com:
+    - `npm install`
+    - `npm run start`
+4. Abra http: // localhost: 9000 em um navegador da web.
